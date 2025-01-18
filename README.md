@@ -61,8 +61,7 @@ The analysis was conducted using the following process:
    ```bash
    pip install -r requirements.txt
    ```
-3. Download the dataset: [market_basket_dataset.csv](path/to/dataset).
-4. Run the Python scripts to replicate the analysis.
+3. Run the Python scripts to replicate the analysis.
 
 ---
 
