@@ -43,8 +43,6 @@ The analysis was conducted using the following process:
 
 ### Top 10 Most Popular Items Sold
 
-![Top 10 Items](path/to/image.png)
-
 ### Association Rules
 
 | **Antecedents** | **Consequents** | **Support** | **Confidence** | **Lift** |
@@ -52,8 +50,6 @@ The analysis was conducted using the following process:
 | (Bread)         | (Apples)       | 0.045       | 30.43%        | 1.86     |
 
 ### Customer Behavior Analysis
-
-![Top 10 Items](path/to/image.png)
 
 ## 🚀 How to Run the Project
 
