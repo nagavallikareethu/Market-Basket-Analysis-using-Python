@@ -55,7 +55,7 @@ The analysis was conducted using the following process:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/nagavallikareethu/market-basket-analysis.git
+   https://github.com/nagavallikareethu/Market-Basket-Analysis-using-Python
    ```
 2. Install the required libraries:  
    ```bash
