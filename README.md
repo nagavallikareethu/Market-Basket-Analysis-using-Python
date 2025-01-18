@@ -1,7 +1,3 @@
-# Market-Basket-Analysis-using-Python
-Here's a concise, professional GitHub-ready description for your Market Basket Analysis project. You can include this in your repository's `README.md` file:
-
----
 
 # Market Basket Analysis with Python
 
