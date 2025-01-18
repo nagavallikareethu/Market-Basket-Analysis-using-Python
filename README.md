@@ -53,13 +53,13 @@ The analysis was conducted using the following process:
 
 ### Customer Behavior Analysis
 
-![Customer Behavior](path/to/image.png)
+![Top 10 Items](path/to/image.png)
 
 ## 🚀 How to Run the Project
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/market-basket-analysis.git
+   git clone https://github.com/nagavallikareethu/market-basket-analysis.git
    ```
 2. Install the required libraries:  
    ```bash
